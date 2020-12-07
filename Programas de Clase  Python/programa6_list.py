@@ -1,3 +1,5 @@
+#Listas - 1, 2, 3 por Python
+
 L = [1,2,3,'par', ['Py',['t','h','o','n']]]
 
 print(L[0])         #1

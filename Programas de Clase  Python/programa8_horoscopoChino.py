@@ -1,3 +1,5 @@
+#Horoscopo chino
+
 año = int(input("Introduce el año en que naciste: "))
 horoscopo = año%12
 

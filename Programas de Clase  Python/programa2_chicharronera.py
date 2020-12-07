@@ -1,3 +1,5 @@
+#Resolucion a una ecuacion de 2do grado
+
 import math
 print("Resolucion a una ecuacion de 2do grado")
 a = 1

@@ -1,3 +1,5 @@
+#Tarjeta de descuento
+
 print("Introduce tu edad: ")
 edad = int(input())
 if (edad >= 6 and edad <=12) or edad >=60:

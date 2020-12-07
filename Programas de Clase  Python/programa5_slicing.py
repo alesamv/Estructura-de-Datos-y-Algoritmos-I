@@ -1,3 +1,5 @@
+#Cadenas - Mantequilla
+
 c = "mantequilla"
 print(c[0])     #m
 print(c[4])     #e
