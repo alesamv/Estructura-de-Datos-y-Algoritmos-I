@@ -1,0 +1,1 @@
+Los ejercicios de las practicas 9 y 10 corresponden a los 24 programas que se encuentran en la carpeta "Programas de clase Python"
