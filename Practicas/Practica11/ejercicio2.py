@@ -1,6 +1,5 @@
 #Mayor de una lista de numeros
 
-
 print("Encontrando el numero mayor de una lista de numeros\n")
 
 lista =[3,2,8,7,6,3,4,0,1]
